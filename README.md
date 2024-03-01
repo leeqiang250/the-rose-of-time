@@ -1,1 +1,3 @@
-# the-rose-of-time
+# stay hungry
+
+# stay foolish
