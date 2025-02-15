@@ -1,4 +1,7 @@
+https://quaily.com/simpleearn/p/simple-earn-manual-2-morpho-analysis
+
 背景
+
 Morpho 是我本轮周期最喜欢的几个项目之一（只是认可协议的价值，不是推荐买币），代码简洁备受赞誉，它把零钱理财 / 传统基金管理的元素搭配在一起，既方便活钱管理，也方便了需要有资金杠杆需求的人。
 
 地址：https://app.morpho.org/
